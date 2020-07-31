@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: safenetforum.org stickers
 ! Updated: 2020-07-25
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/f/e/fe3c2dda876f988e15b982d8e2150cccb7d29ef4.png$image
