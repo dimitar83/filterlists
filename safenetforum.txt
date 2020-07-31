@@ -10,9 +10,9 @@
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/b/b/bb57095cad5e4ead8955a69d77a668f7a54bd0a5.png$image
 ||discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/business5/uploads/safenetwork/original/3X/f/e/fe3c2dda876f988e15b982d8e2150cccb7d29ef4.png$image
 ||sjc3.discourse-cdn.com/business5/images/emoji/twitter/dragon.png$image
-https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/business5/uploads/safenetwork/original/3X/f/e/fe3c2dda876f988e15b982d8e2150cccb7d29ef4.png$domain=safenetforum.org,image
-https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/business5/uploads/safenetwork/original/3X/0/4/0402dd963303114c7ff3717ad8fc548808145f9c.png$domain=safenetforum.org,image
-https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/business5/uploads/safenetwork/original/3X/f/e/fe3c2dda876f988e15b982d8e2150cccb7d29ef4.png?v=9$domain=safenetforum.org,image
+||https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/business5/uploads/safenetwork/original/3X/f/e/fe3c2dda876f988e15b982d8e2150cccb7d29ef4.png$domain=safenetforum.org,image
+||https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/business5/uploads/safenetwork/original/3X/0/4/0402dd963303114c7ff3717ad8fc548808145f9c.png$domain=safenetforum.org,image
+||https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/business5/uploads/safenetwork/original/3X/f/e/fe3c2dda876f988e15b982d8e2150cccb7d29ef4.png?v=9$domain=safenetforum.org,image
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/7/f/7f277dfaf5525eeb6f9428aa1a8ecf6f22b0a537.png$image
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/5/c/5c3bc0873fc16fed8943355085a1dd28b5642e20.png$image
 ||aws1.discourse-cdn.com/business5/uploads/safenetwork/original/3X/5/c/5c3bc0873fc16fed8943355085a1dd28b5642e20.png$image
